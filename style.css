@@ -9,8 +9,10 @@ body{
     width: 100px;
     height: 100px;
     border: 1px solid #505050;
-    border-radius: 50px;    
+    border-radius: 50px;  
+    
 }
+
 
 #title, .subtitle, .post_title{
     color:blue
@@ -23,7 +25,7 @@ body{
 
 a{
     text-decoration: line-through;
-    color: #505050 ;
+    color: blue ;
 }
 
 .post_title{
